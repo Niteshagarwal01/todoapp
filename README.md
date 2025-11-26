@@ -1,4 +1,6 @@
 # Todo App — Project Guide (Small Build #5)
+<img width="1024" height="1024" alt="Gemini_Generated_Image_onelf1onelf1onel" src="https://github.com/user-attachments/assets/9d60e590-2b30-4150-b4ae-677c6961fc2c" />
+
 
 A responsive and feature-rich task management application with priority levels, due dates, categories, and local storage persistence. Built with vanilla JavaScript for efficient task organization and productivity.
 
